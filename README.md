@@ -1,2 +1,2 @@
 # ai-p
-use AI/ML for test automation
+use AI/ML in test automation for screen object analyses
